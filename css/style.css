@@ -43,7 +43,8 @@
   width: 100px;
 }
 .carousel-inner {
-  height: 360px !important;
+  /* height: 360px !important; */
+  height: 60vh !important;
 }
 .top-50P {
   top: 14%;
@@ -51,7 +52,7 @@
 
 .adjustWidth {
   width: 20%;
-  height: 500px;
+  height: 600px;
   margin: 0 auto;
 }
 .bg-img {
@@ -70,8 +71,11 @@
 
 .carousel-img {
   position: absolute;
-  left: 26%;
-  bottom: 33%;
+  /* left: 26%; */
+  /* bottom: 33%; */
+  /* left: 60%; */
+  right: 35%;
+  bottom: 32%;
 }
 
 .carousel-img > img {
